@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KoreanApp</string>
+    <string name="button_learn_text">Learn</string>
+    <string name="button_lists_text">Lists</string>
+    <string name="list_overview_title">My Lists</string>
+    <string name="button_add_list">Add a list</string>
+</resources>
